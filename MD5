@@ -1,0 +1,10 @@
+b61fc3ffa8e7fe58f22f96567d35a048 *DESCRIPTION
+ebbeae6e349043a3a9c32479fcce4b9b *NAMESPACE
+d1ac14aefb63f0f46711a9f68ca264e3 *R/ogi.R
+75e97ba546c09f3c8dbf61036b414b65 *R/utils.R
+43bc9e6bd4b14c51edb3d9e10a869389 *man/cov2biu.Rd
+a42ac1edc0c91f491c7b8a657a230534 *man/cov2weight.Rd
+1019e89e03916a544cad2ff264ba825a *man/ogi.Rd
+dd80fc2700a28b32d3f01d0deee03a21 *tests/testthat.R
+6fbe2b098ae64262892b58125566164d *tests/testthat/test_nu_is_positive.R
+964619f54d44baac82a55e819ae003d7 *tests/testthat/test_positive_definite.R
